@@ -1,3 +1,4 @@
+#Author - Hina Tariq
 #Color processing
 
 popularColor <- function(dataset)
