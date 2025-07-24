@@ -1,4 +1,4 @@
-% Author - Hina Tariq
+#Author - Hina Tariq
 
 rm(list = ls())
 options( java.parameters = "-Xmx4g" )
