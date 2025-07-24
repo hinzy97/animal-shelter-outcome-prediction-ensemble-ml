@@ -1,3 +1,4 @@
+#Author - Hina Tariq
 #Process sex upon outcome code
 
 sexOutcomeMapping <- function(sex_outcome)
