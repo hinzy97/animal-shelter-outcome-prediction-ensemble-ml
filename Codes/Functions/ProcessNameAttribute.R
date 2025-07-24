@@ -1,3 +1,4 @@
+#Author - Hina Tariq
 #Process name attribute code
 
 processNameAtrribute <- function(dataset)
