@@ -143,6 +143,5 @@ dat <- data.frame(
 m <- ggplot(data=dat, aes(x=Algorithm, y=MultiLogLoss, fill=Algorithm)) + geom_bar(stat="identity") 
 m+ ylim(0,1) +geom_text(aes(label=MultiLogLoss), vjust=1.6, color="white", size=3.5)
 
-#Score on kaggle = 0.75603
-#MultiLogLoss(as.matrix(pred1), test_data$OutcomeType)
+
 
